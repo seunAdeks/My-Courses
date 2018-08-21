@@ -8,9 +8,9 @@ The target audience are IDS@UM staff who are interested in data science with ent
 
 ## Environment setup
 
-1. Install python
-2. Install docker
-3. run `pyhon run_docker_jupyter.py`
+1. Install [python](https://www.python.org/downloads/)
+2. Install [docker](https://docs.docker.com/install/#supported-platforms)
+3. run `python run_docker_jupyter.py`
 4. navigate to `localhost:4545` on your browser
 
 ## Note
